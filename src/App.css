@@ -3,6 +3,11 @@
   margin: auto;
   padding: 20px;
 }
+.navLogo{
+  display: flex;
+  color: #5ae2f4;
+  font-weight: 700;
+}
 .nav-items{
   font-size: 19px;
   display: flex;
@@ -20,4 +25,5 @@
 
 .logo{
   width: 70px;
+  margin-right: 10px;
 }

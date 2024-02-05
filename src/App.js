@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Footer from "./footer"
 import Header from "./header"
 import Maincontent from './maincontent'
